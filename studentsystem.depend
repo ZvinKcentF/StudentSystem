@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1564314860 source:e:\clanguageproject\studentsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	"studentsystem.h"
+
+1564369546 e:\clanguageproject\studentsystem\studentsystem.h
+	<stdio.h>
+	<string.h>
+
+1564371228 source:e:\clanguageproject\studentsystem\studentsystem.c
+	<stdio.h>
+	<stdlib.h>
+	"studentsystem.h"
+
